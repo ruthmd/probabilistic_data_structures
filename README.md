@@ -151,6 +151,7 @@ MinHash is used for estimating the similarity between sets. It hashes elements o
 - Document similarity in search engines.
 - Clustering and classification tasks.
 
+---
 
 ### Quotient Filter
 
