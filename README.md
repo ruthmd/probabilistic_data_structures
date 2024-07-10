@@ -153,7 +153,7 @@ MinHash is used for estimating the similarity between sets. It hashes elements o
 
 ---
 
-### Quotient Filter
+### 7. Quotient Filter
 
 **Overview:**
 
